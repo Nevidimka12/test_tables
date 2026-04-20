@@ -1,0 +1,11 @@
+Подзадача;Метрики;Методы
+Общее распознавание / предсказание черт личности;mAcc + mCCC;OCEAN-AI
+;PCC + CCC + ACC + MSE;PINet
+;ACC + PCC + CCC + R²;A multimodal personality prediction framework based on adaptive graph transformer network and multi-task learning
+;ACC + PCC + CCC;Emotion-Assisted Multi-Modal Personality Recognition using Adversarial Contrastive Learning
+;Mean Accuracy (A) + R²;Unsupervised Multimodal Learning for Dependency-Free Personality Recognition
+;MSE + PCC + CCC;Learning Personalised Human Internal Cognition from External Expressive Behaviours for Real Personality Recognition
+;ACC + MAE + MSE + R²;A DLF Multi-Scale Quantitative Research Method for the Big Five Personality Traits
+Оценка черт личности в видеоинтервью;MSE;"Traits Run Deep; Enhancing Multimodal Personality Assessment with LLM-Augmented Hierarchical Fusion"
+;RMSE;A Lightweight Multimodal Framework for Big Five Personality Traits
+Классификация личностно-связанных характеристик;ACC + Macro-F1;Self-Esteem Assessment Based on Self-Introduction: A Multimodal Approach to Personality Computing
